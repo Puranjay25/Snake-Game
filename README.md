@@ -2,11 +2,11 @@
 1)Python 3x installed on your system
 2)Module “pygame” should be installed on your OS.
 
-**Install python 3x on your system**
+### **Install python 3x on your system**
 
  Go to https://www.python.org/downloads/ for download
 
-**Install pygame on your system**
+### **Install pygame on your system**
 
 Go to http://www.pygame.org/download.shtml
 
