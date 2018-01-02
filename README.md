@@ -20,7 +20,7 @@ Use command “sudo apt-get install python-pip”.
 **Step 1:** Intall pyinstaller:
              *run* 'pip install pyinstaller'
 **Step 2:** Create executable file using pyinstaller:
-            *run* 'pyinstaller <filename>' 
+            *run* 'pyinstaller filename.py' 
  
  **For more on pyinstaller** [visit here](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjbhYLX27nYAhXKqo8KHSNFDr4QFgg7MAI&url=http%3A%2F%2Fwww.pyinstaller.org%2F&usg=AOvVaw3OuNuw_tjXM7JIUb02TL45)
 
